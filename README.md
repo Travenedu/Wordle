@@ -31,8 +31,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src=Walkthough1' title='Win Game Video Walkthrough' width='' alt='Win Game Video Walkthrough' />
-<img src=Walkthough2' title='Lose Game Video Walkthrough' width='' alt='Lose Game Video Walkthrough' />
+<img src=Walkthough1.mov' title='Win Game Video Walkthrough' width='' alt='Win Game Video Walkthrough' />
+<img src=Walkthough2.mov' title='Lose Game Video Walkthrough' width='' alt='Lose Game Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
