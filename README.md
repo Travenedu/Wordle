@@ -44,6 +44,9 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+One challenge I faced while building this Wordle app was trying to figure out the initial 3X4 Wordle text box design. At first, I tried to create each box individually and build the rows box by box but this was tedious and inefficient. After some research, I found the linear layouts made this more efficient, organized, and easier to implement into the design.
+
+Another challenge I faced was trying to figure out how to move to the next box once the user has entered a letter. After doing some research on similar projects with this functionality, I was able to figure this out as well.
 
 ## License
 
