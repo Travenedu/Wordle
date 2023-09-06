@@ -149,6 +149,7 @@ class MainActivity : AppCompatActivity() {
         // Checks if user has won game if not print losing message
         if (edt4.id == R.id.edt_34){
             Toast.makeText(this, "Sorry you did not guess the word", Toast.LENGTH_SHORT).show()
+            Toast.makeText(this, WORD, Toast.LENGTH_LONG).show()
             binding.txtWinnerLoser.visibility = View.VISIBLE
             binding.txtWinnerLoser.text = "Sorry you did not guess the word"
             makeGameInactive()
