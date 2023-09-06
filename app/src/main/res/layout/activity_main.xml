@@ -9,7 +9,7 @@
 
     <TextView
         android:layout_width="wrap_content"
-        android:text="Wordle!!"
+        android:text="Wordle: Guess the Word!"
         android:textColor="@color/white"
         android:textSize="32sp"
         android:layout_centerHorizontal="true"
